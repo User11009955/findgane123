@@ -1,0 +1,122 @@
+.sunsistem {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#clamp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0 200px;
+
+}
+
+#screwdriver {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 360px 0 0 550px;
+}
+
+#chainsaw {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 160px 0 0 230px;
+}
+
+#circularsaw {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 200px 0 0 440px;
+}
+
+#drill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 400px 0 0 870px;
+}
+
+#electricscrewdriver {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 660px 0 0 620px;
+}
+
+#grinders {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 440px;
+}
+
+#jackhammer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 160px 0 0 800px;
+}
+
+#jigsaw {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 30px;
+}
+
+#monkeywrench {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 600px 0 0 350px;
+}
+
+#nippers {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 150px 0 0 660px;
+}
+
+#plane {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 95px 0 0 75px;
+}
+
+#saw {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 630px 0 0 900px;
+}
+
+#sledgehemmer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 380px 0 0 130px;
+}
+
+#solderingiron {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 300px 0 0 300px;
+}
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
+}
